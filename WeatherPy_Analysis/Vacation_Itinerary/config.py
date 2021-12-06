@@ -1,2 +1,1 @@
-#GOOGLE API KEY 
-g_key = "AIzaSyCRGmqtQMjON2QwUlFGMT5q9MRHsjSrEZA"
+
